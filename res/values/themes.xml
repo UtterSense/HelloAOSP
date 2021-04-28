@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.HelloAOSP" parent="@android:style/Theme.Material.Light.NoActionBar">
+
+        <!-- Customize your theme here - use as when required. -->
+    </style>
+</resources>

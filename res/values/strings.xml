@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloAOSP</string>
+    <string name="main_text">Hello world - I was designed in Android Studio and built in AOSP!</string>
+</resources>
